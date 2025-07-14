@@ -1,2 +1,2 @@
-# SnakeGame
-SimpleSnakeGame
+# Snake Game
+demo of snake gameplay
